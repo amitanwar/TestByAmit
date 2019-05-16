@@ -1,0 +1,22 @@
+F:\Core\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.deps.json
+F:\Core\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.runtimeconfig.json
+F:\Core\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.runtimeconfig.dev.json
+F:\Core\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.dll
+F:\Core\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.pdb
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.csprojAssemblyReference.cache
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.csproj.CoreCompileInputs.cache
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.AssemblyInfoInputs.cache
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.AssemblyInfo.cs
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.dll
+F:\Core\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.pdb
+E:\Net Core Project\amit\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.deps.json
+E:\Net Core Project\amit\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.runtimeconfig.json
+E:\Net Core Project\amit\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.runtimeconfig.dev.json
+E:\Net Core Project\amit\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.dll
+E:\Net Core Project\amit\amit\gym.Ado\bin\Debug\netcoreapp2.2\gym.Ado.pdb
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.csprojAssemblyReference.cache
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.csproj.CoreCompileInputs.cache
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.AssemblyInfoInputs.cache
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.AssemblyInfo.cs
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.dll
+E:\Net Core Project\amit\amit\gym.Ado\obj\Debug\netcoreapp2.2\gym.Ado.pdb
