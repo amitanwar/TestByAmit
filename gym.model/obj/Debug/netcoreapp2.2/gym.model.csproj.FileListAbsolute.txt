@@ -1,0 +1,11 @@
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.csprojAssemblyReference.cache
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.csproj.CoreCompileInputs.cache
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.AssemblyInfoInputs.cache
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.AssemblyInfo.cs
+F:\Core\amit\gym.model\bin\Debug\netcoreapp2.2\gym.model.deps.json
+F:\Core\amit\gym.model\bin\Debug\netcoreapp2.2\gym.model.runtimeconfig.json
+F:\Core\amit\gym.model\bin\Debug\netcoreapp2.2\gym.model.runtimeconfig.dev.json
+F:\Core\amit\gym.model\bin\Debug\netcoreapp2.2\gym.model.dll
+F:\Core\amit\gym.model\bin\Debug\netcoreapp2.2\gym.model.pdb
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.dll
+F:\Core\amit\gym.model\obj\Debug\netcoreapp2.2\gym.model.pdb
